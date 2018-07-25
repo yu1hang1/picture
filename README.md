@@ -56,17 +56,17 @@
 ### 学习技能
 * 2017.09 [第三届中国大学生大学生互联网+创新竞赛  辽宁省“成功参与奖”、沈阳工业大学“银奖”](https://github.com/yu1hang1/resume/blob/master/Internet%2B.png)
 * 2018.04 第二届沈阳工业大学大学生电子设计竞赛 三等奖
-* 2017.05 国家计算机等级二级证书（C语言）
-* 2017.10 沈阳工业大学 二等奖学金
+* 2017.05 [国家计算机等级二级证书（C语言）](https://github.com/yu1hang1/resume/blob/master/NCRE.jpg)
+* 2017.10 [沈阳工业大学 二等奖学金](https://github.com/yu1hang1/resume/blob/master/Scholarship.png)
 
 ### 综合素质
-* 2018.4  沈阳市 优秀大学生
-* 2016.9  沈阳工业大学  优秀学生干部
-* 2017.12 沈阳工业大学  三好学生
-* 2017.12 沈阳工业大学 暑期社会实践先进个人
-* 2017.12 沈阳工业大学高校品牌校园文化调研大赛 三等奖
-* 2017.10 辽宁省志愿者证书
-* 2017.11 被授予 院“优秀学生干部”称号
+* 2018.4  [沈阳市 优秀大学生](https://github.com/yu1hang1/resume/blob/master/Excellent%20college%20students.jpg)
+* 2016.9  [沈阳工业大学  优秀学生干部](https://github.com/yu1hang1/resume/blob/master/student%20cadres.png)
+* 2017.12 [沈阳工业大学  三好学生](https://github.com/yu1hang1/resume/blob/master/Three%20good%20students.png)
+* 2017.12 [沈阳工业大学 暑期社会实践先进个人]
+* 2017.12 [沈阳工业大学高校品牌校园文化调研大赛 三等奖]
+* 2017.10 [辽宁省志愿者证书](https://github.com/yu1hang1/resume/blob/master/Volunteer%20certificate.png)
+* 2017.11 [被授予 院“优秀学生干部”称号](https://github.com/yu1hang1/resume/blob/master/student%20cadres2.png)
 
 ---
 
