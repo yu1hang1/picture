@@ -76,7 +76,7 @@
 * 2018.4  [沈阳市 优秀大学生](https://github.com/yu1hang1/resume/blob/master/Excellent%20college%20students.jpg)
 * 2016.9  [沈阳工业大学  优秀学生干部](https://github.com/yu1hang1/resume/blob/master/student%20cadres.png)
 * 2017.12 [沈阳工业大学  三好学生](https://github.com/yu1hang1/resume/blob/master/Three%20good%20students.png)
-* 2017.12 沈阳工业大学 暑期社会实践先进个人
+* 2017.12 [沈阳工业大学 暑期社会实践先进个人](https://github.com/yu1hang1/resume/blob/master/SummerPractise.jpg)
 * 2017.10 [辽宁省志愿者证书](https://github.com/yu1hang1/resume/blob/master/Volunteer%20certificate.png)
 * 2017.11 [被授予 院“优秀学生干部”称号](https://github.com/yu1hang1/resume/blob/master/student%20cadres2.png)
 
