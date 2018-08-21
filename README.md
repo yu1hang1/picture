@@ -4,7 +4,7 @@
 * Email:<sut_yh@outlook.com>
 * GitHub:[https://github.com/yu1hang1](https://github.com/yu1hang1)
 * 本科 / 沈阳工业大学测控技术与仪器系 / 2015.09.01-2019.07.10
-* 期望职位:Python后端开发工程师（实习）
+* 期望职位:后端开发工程师（实习）
 
 ---
 
@@ -34,7 +34,7 @@
 # 工作经历
 ###  Accenture - DevOps team实习（2018年7月至今）
 #### 微服务云架构平台
-* 所在团队主要负责编写API应用程序，并上传至BBA Jira System，供BBA部门调用。我负责编写了Email Server Interface，基于python3.6，django2.0的邮件发送接口的服务。此模块用到了django rest framework框架，其特点是用户可以使用restful api发送邮件，认证机制采用jwt(json web token)或session，登录采用ldap登录ad账号的形式，权限机制使用的是django admin内置的权限功能，只有在加了权限的用户才可以使用此功能。部署完成后，此API接口共计被5个团队调用，服务公司内部共计300余人。
+* 所在团队的工作是基于微服务架构理念，开发BBA IT运维管理平台，利用此平台使运维实现自动化。我主要的工作就是负责写API，并上传至Bitbucket。其中包括Email Server Interface，基于python3.6，django2.0的邮件发送接口的服务。此模块用到了django rest framework框架，其特点是用户可以使用restful api发送邮件，认证机制采用jwt(json web token)或session，登录采用ldap登录ad账号的形式，权限机制使用的是django admin内置的权限功能，只有在加了权限的用户才可以使用此功能。部署完成后，此API接口共计被5个团队调用，服务公司内部共计300余人。
 * 无需培训、短期适应即可根据需求迅速地高质量完成任务，并加深自学Python、Django框架、设计模式等技术知识且实时应用到工作中。
 * 能对工作提出见解和优化策略，并积极和同事交流，保证快速迭代顺利交付。
 ### 沈阳工业大学信息学院学生会主席
