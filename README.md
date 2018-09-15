@@ -4,14 +4,13 @@
 * Email:<sut_yh@outlook.com>
 * GitHub:[https://github.com/yu1hang1](https://github.com/yu1hang1)
 * 本科 / 沈阳工业大学测控技术与仪器系 / 2015.09.01-2019.07.10
-* 期望职位:后端开发工程师（实习）
+* 期望职位:后端开发工程师
 
 ---
 
 # 专业技能
 * 开发语言:Python / C / java
 * web框架:Django / MVC
-* 爬虫框架:scrapy
 * 前端:HTML / CSS / JS / JQuery
 * 前端框架:HTML5 / bootstrap
 * 数据库相关:MySQL 
@@ -34,7 +33,7 @@
 # 工作经历
 ###  Accenture - DevOps team实习（2018年7月至今）
 #### 微服务云架构平台
-* 负责BBA IOMS开发的项目。主要工作是写API，参与编写包括Monitor Service、Email Server Interface等api应用程序。其中Monitor_Service可实现报警日志的自动采集功能。Email Server Interface用到了Django RestFramework框架，其特点是用户可以使用Restful API发送邮件，认证机制采用JWT，登录采用Ldap登录ad账号的形式，权限机制使用的是Django admin内置的权限功能。部署完成后，我所编写的API共计被公司5个team调用，服务公司内部共计200余人。
+* 负责华晨宝马项目组自动化运维工具链的开发。主要工作是写API，具体参与编写包括Monitor Service、Email Server Interface等API应用程序。其中Monitor_Service用来实现自动采集 报警日志功能。Email Server Interface用来实现报警后 邮件自动告知功能。 Email Server Interface基于Django Rest Framework，用户也可 以使用Restful API发送邮件，认证机制采用JWT，登录采用Ldap登录ad账号的形式，权限机制使用的是Django admin内置的权限功能。部署完成后，我所编写的API共计被公司5个团队调用， 服务公司内部共计200余人。
 * 无需培训、短期适应即可根据需求迅速地高质量完成任务，并加深自学Python、Django框架、设计模式等技术
 知识且实时应用到工作中。
 * 能对工作提出见解和优化策略，并积极和同事交流，保证快速迭代顺利交付。
@@ -66,6 +65,9 @@
 * **A** 设计并绘制程序流程框图。完成整个程序的编写，其中引用了STC15F2K60S2.H与intrins.h库；使用了数码管显示函数、Dac转换函数、键值扫描函数等来控制单片机。同时对计算机原理包括CPU、内存、硬盘、以及操作系统相互之间的关系有了很深的理解。
 * **R** 用单片机与TLC5620模块将数字信号转换为电压信号产生不同波形的信号。并通过按键设置输出脉宽，并将电压幅度在数码管上显示。开发过程中了解了通过语言控制硬件的底层逻辑，为将来的学习高级编程语言打下了坚实的基础。
 
+### 2017.10 - 2017.11      飞机大战——2D小游戏
+利用PyGame模块进行2D小游戏开发；理解游戏开发原理，从游戏窗口的搭建到爆炸动画效果；过程中强化面向 对象编程的开发应用，深入理解工厂设计模式；后期通过抽取基类等不断优化提升代码质量，最终使程序实现低耦 合，易扩展的高质量代码。
+
 ---
 
 # 曾获荣誉
@@ -87,3 +89,4 @@
 
 # 致谢
 感谢您阅读我的简历，期待能有机会和您共事。
+ 
