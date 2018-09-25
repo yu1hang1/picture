@@ -3,6 +3,7 @@
 * 手机:18640192945（沈阳）
 * Email:<sut_yh@outlook.com>
 * GitHub:[https://github.com/yu1hang1](https://github.com/yu1hang1)
+* 个人博客:[https://www.cnblogs.com/SutCoderHang](https://www.cnblogs.com/SutCoderHang)
 * 本科 / 沈阳工业大学测控技术与仪器系 / 2015.09.01-2019.07.10
 * 期望职位:后端开发工程师
 
